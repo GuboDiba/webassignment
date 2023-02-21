@@ -1,0 +1,193 @@
+.container{
+    border-style: solid;
+    border-color: rgb(41, 41, 243);
+    border-bottom: none;
+    border-width: 60px;
+    border-radius: 1%;
+    
+}
+
+.content{
+    border-style: solid;
+    border-color: rgba(128, 128, 128, 0.798);
+    border-radius: 1%;
+    border-width: 40px;
+    border-bottom:none ;
+    
+
+
+}
+.nicel{
+    display: flex;
+    width: 2%;
+    height: 1%;
+}
+    
+.Nav ul li{
+    list-style: none;
+    color: rgb(143, 138, 138);
+    width: auto;
+    padding: 10px;
+    
+    
+  
+
+}
+.list{
+    display: flex;
+    margin-left: 100%;
+    
+}
+.image{
+    width: 1000%;
+    height: 100%;
+    margin-left: 90%;
+}
+
+.heading1{
+    text-align: center;
+    margin-left: 10%;
+    margin-top: 4%;
+    
+}
+.heading6{
+    text-align: center;
+
+}
+.nicecom{
+    color: rgb(79, 79, 223);
+}
+.nice{
+    color: rgb(17, 215, 17);
+}
+.link{
+    background-color: rgb(20, 20, 206);
+    margin-left: 50%;
+    width: 10%;
+    padding: 10px;
+}
+
+.img2{
+    width: 100%;
+}
+.cont{
+    position: relative;
+}
+
+.brand{
+    width: 20%;
+    height: 0%;
+    size: 1px;
+    justify-content: left;
+    display: flex;
+    padding: 3% 2%;
+}
+.pd{
+    padding-top: 3%;
+}
+.rig{
+    height: 4%;
+    padding: 0 20px 0;
+    margin-top: 40%;
+    
+}
+.fits{
+    width: 60%;
+
+}
+.smithey{
+    width: 60%;
+}
+.rig{
+    width: 60%;
+}
+.box{
+    width: 600px;
+    height: 1%;
+    padding-left: 2%;
+    display: flex;
+    float: right;
+    margin-left: 40%;
+    margin-right: 0%;
+    margin-top: 2%;
+}
+.line1{
+    background-color: rgb(15, 15, 206);
+    padding: 1%;
+}
+.line2{
+    background-color: rgb(222, 161, 47);
+    padding: 1%;
+}
+.line3{
+    background-color: rgb(8, 69, 8);
+    padding: 1%;
+}
+.cont{
+    display: flex;
+    ;
+}
+.orders{
+    background-color: rgb(181, 164, 164);
+    border-radius: 3%;
+    padding:0 3%;
+    margin: 2%;
+    
+
+}
+.based{
+    background-color: aquamarine;
+    border-radius: 3%;
+    padding: 0 3%;
+    margin: 2%;
+}
+.active{
+    background-color:bisque ;
+    border-radius: 3%;
+    padding:0 3% ;
+    margin: 2%;
+}
+.bottom{
+    background-color: white;
+    padding-left: 10%;
+    margin: 2%;
+    display: flex;
+}
+.bot{
+    display: flex;
+    margin-right: none;
+    margin-left: 30%;
+}
+.much{
+    width: 1px;
+    height: 1px;
+    text-align: left;
+    padding: 0 1px;
+    margin-left: none;
+}
+.same{
+    background-color: white;
+    padding: 0 2%;
+    margin: 1%;
+
+
+}
+
+.unique{
+    background-color: white;
+    padding: 0 2%;
+    margin: 1%;
+}
+.manage{
+    background-color: white;
+    padding:0 2% ;
+    margin:1% ;
+}
+.button{
+
+    width: 20%;
+    background-color: rgb(103, 103, 235);
+    padding: 15px 15px;
+    margin-left: 10%;
+    text-decoration-color: white;
+}
